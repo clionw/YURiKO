@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Galerie projektů | YURIKO s.r.o.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #f4f4f4;
+        color: #333;
+      }
+
+      header {
+        background: #0b6efd;
+        color: white;
+        padding: 30px 20px;
+        text-align: center;
+      }
+
+      section {
+        background: white;
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+      }
+
+      h2 {
+        color: #0b6efd;
+        text-align: center;
+      }
+
+      .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 15px;
+      }
+
+      .gallery img {
+        width: 100%;
+        border-radius: 6px;
+        object-fit: cover;
+      }
+
+      .btn {
+        display: inline-block;
+        background: #0b6efd;
+        color: white;
+        padding: 12px 20px;
+        text-decoration: none;
+        border-radius: 6px;
+        margin-top: 20px;
+      }
+
+      .btn:hover {
+        background: #084298;
+      }
+
+      footer {
+        text-align: center;
+        padding: 15px;
+        font-size: 14px;
+        color: #777;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Galerie projektů</h1>
+      <p>Ukázky realizací YURIKO s.r.o.</p>
+    </header>
+
+    <section>
+      <h2>Naše práce</h2>
+
+      <div class="gallery">
+        <img src="img/projekt1.jpg" alt="Instalatérské práce – koupelna" />
+        <img src="img/projekt2.jpg" alt="Podlahové topení" />
+        <img src="img/projekt3.jpg" alt="Montáž WC" />
+        <img src="img/projekt4.jpg" alt="Rozvody vody" />
+      </div>
+
+      <div style="text-align: center">
+        <a class="btn" href="sait.html">Zpět na hlavní stránku</a>
+      </div>
+    </section>
+
+    <footer>© 2026 YURiKO s.r.o.</footer>
+  </body>
+</html>
