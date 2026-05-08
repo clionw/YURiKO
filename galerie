@@ -76,10 +76,36 @@
       <h2>Naše práce</h2>
 
       <div class="gallery">
-        <img src="img/projekt1.jpg" alt="Instalatérské práce – koupelna" />
-        <img src="img/projekt2.jpg" alt="Podlahové topení" />
-        <img src="img/projekt3.jpg" alt="Montáž WC" />
-        <img src="img/projekt4.jpg" alt="Rozvody vody" />
+        <img src="img/project1.jpg" alt="Instalatérské práce – koupelna" />
+        <img src="img/project2.jpg" alt="Podlahové topení" />
+        <img src="img/project3.jpg" alt="Montáž WC" />
+        <img src="img/project4.jpg" alt="Rozvody vody" />
+        <img src="img/project5.jpg" alt="Rozvody vody" />
+        <img src="img/project6.jpg" alt="Rozvody vody" />
+        <img src="img/project7.jpg" alt="Rozvody vody" />
+        <img src="img/project8.jpg" alt="Rozvody vody" />
+        <img src="img/project9.jpg" alt="Rozvody vody" />
+        <img src="img/project10.jpg" alt="Rozvody vody" />
+        <img src="img/project11.jpg" alt="Rozvody vody" />
+        <img src="img/project12.jpg" alt="Rozvody vody" />
+        <img src="img/project13.jpg" alt="Rozvody vody" />
+        <img src="img/project14.jpg" alt="Rozvody vody" />
+        <img src="img/project15.jpg" alt="Rozvody vody" />
+        <img src="img/project16.jpg" alt="Rozvody vody" />
+        <img src="img/project17.jpg" alt="Rozvody vody" />
+        <img src="img/project18.jpg" alt="Rozvody vody" />
+        <img src="img/project19.jpg" alt="Rozvody vody" />
+        <img src="img/project20.jpg" alt="Rozvody vody" />
+        <img src="img/project21.jpg" alt="Rozvody vody" />
+        <img src="img/project22.jpg" alt="Rozvody vody" />
+        <img src="img/project23.jpg" alt="Rozvody vody" />
+        <img src="img/project24.jpg" alt="Rozvody vody" />
+        <img src="img/project25.jpg" alt="Rozvody vody" />
+        <img src="img/project26.jpg" alt="Rozvody vody" />
+        <img src="img/project27.jpg" alt="Rozvody vody" />
+        <img src="img/project28.jpg" alt="Rozvody vody" />
+        <img src="img/project29.jpg" alt="Rozvody vody" />
+        <img src="img/project30.jpg" alt="Rozvody vody" />
       </div>
 
       <div style="text-align: center">
